@@ -5,7 +5,7 @@
   "homepage": "https://github.com/robertleeplummerjr/leaflet.labelOverlay",
   "authors": [
 	"diciu <diciu@github.com>",
-    "robertleeplummerjr@gmail.com <Robert Lee Plummer Jr.>"
+    "Robert Lee Plummer Jr. <robertleeplummerjr@gmail.com>"
   ],
   "description": "Put text overlay on features in leaflet map",
   "keywords": [
