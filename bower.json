@@ -1,0 +1,29 @@
+{
+  "name": "leaflet.labelOverlay",
+  "main": "leaflet.labelOverlay.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/robertleeplummerjr/leaflet.labelOverlay",
+  "authors": [
+	"diciu <diciu@github.com>",
+    "robertleeplummerjr@gmail.com <Robert Lee Plummer Jr.>"
+  ],
+  "description": "Put text overlay on features in leaflet map",
+  "keywords": [
+    "text",
+    "map",
+    "leaflet",
+    "overlay",
+    "superimpose"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "leaflet": "~0.7.3"
+  }
+}

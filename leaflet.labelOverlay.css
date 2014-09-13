@@ -1,0 +1,5 @@
+.leaflet-label-overlay {
+	position: absolute;
+	text-align: center;
+	-webkit-transform: translate3d(0,0,0);
+}
