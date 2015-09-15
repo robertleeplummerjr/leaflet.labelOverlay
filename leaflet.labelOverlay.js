@@ -48,7 +48,7 @@
 			}
 
 			else {
-				new L.Point(pos.x + this.options.offset.x, pos.y - this.options.offset.y);
+                op = new L.Point(pos.x + this.options.offset.x, pos.y - this.options.offset.y);
 			}
 
 			L.DomUtil.setPosition(this._container, op);
